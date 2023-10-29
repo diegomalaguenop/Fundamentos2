@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\bin\Debug\net7.0\Funcamentos2.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\bin\Debug\net7.0\Funcamentos2.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\bin\Debug\net7.0\Funcamentos2.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\bin\Debug\net7.0\Funcamentos2.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\bin\Debug\net7.0\Funcamentos2.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\refint\Funcamentos2.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\Funcamentos2.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Funcamentos2\obj\Debug\net7.0\ref\Funcamentos2.dll
